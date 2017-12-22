@@ -1,5 +1,5 @@
 # webpack-seed
-1.首先clone到本地，第一次运行先执行 install拉取依赖
+1.首先clone到本地，第一次运行先执行 install拉取依赖，然后执行npm start即可运行，构建命令为 run build
 
 2.这是一个webpack的脚手架文件，基于webpack3各个配置信息代码里都有详细注释
 
